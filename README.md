@@ -1,2 +1,2 @@
-Untuk soal 3, silahkan composer update & migrate terlebih dahulu.
+Untuk soal 3, silahkan update composer & migrate terlebih dahulu.
 
